@@ -1,0 +1,9 @@
+<map id="reg_ifab" name="reg_ifab">
+<area shape="rect" id="node1" title=" " alt="" coords="5,177,72,203"/>
+<area shape="rect" id="node2" href="$df/d7b/structTle5012b__reg_1_1ifab__t.html#a6806b07872d03428edaed0971f5e7a53" title=" " alt="" coords="126,5,253,47"/>
+<area shape="rect" id="node3" href="$df/d7b/structTle5012b__reg_1_1ifab__t.html#a9148f56bfe0556fb233885f89fef61d9" title=" " alt="" coords="126,71,253,112"/>
+<area shape="rect" id="node4" href="$df/d7b/structTle5012b__reg_1_1ifab__t.html#aeace3352d8435deb4f8d6788fe1966f4" title=" " alt="" coords="120,136,259,177"/>
+<area shape="rect" id="node5" href="$df/d7b/structTle5012b__reg_1_1ifab__t.html#a7f8344197b480f3237e94f97e0f02fe7" title=" " alt="" coords="126,201,253,243"/>
+<area shape="rect" id="node6" href="$d7/d8c/Read__Sensor__Registers_8ino.html#ae9ee78fc52d9fdf0a7fc36f92054e9b8" title="Function prints a common header for each register entries." alt="" coords="145,267,233,294"/>
+<area shape="rect" id="node7" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a106e3d3595be8d6c375a2221563ab5be" title="Function prints the separated register entries with there type and remark." alt="" coords="149,318,229,345"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Tle5012b::~Tle5012b" name="Tle5012b::~Tle5012b">
+<area shape="rect" id="node1" title="destructor stops the Sensor" alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$d2/d4e/classTle5012b.html#ac2c7251bb9b2570fd3f065087ad1c9aa" title="Switches the sensor off and ends the comunication." alt="" coords="196,5,299,32"/>
+<area shape="rect" id="node3" href="$d2/d4e/classTle5012b.html#a36f65d31d68be3190354b6aa32238b8e" title="Functions disables Sensor by switch off EN pin (only possible on Sensor2go shield)" alt="" coords="347,5,511,32"/>
+</map>

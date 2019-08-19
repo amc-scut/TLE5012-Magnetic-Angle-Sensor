@@ -1,0 +1,7 @@
+<map id="reg_fsync" name="reg_fsync">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,84,134"/>
+<area shape="rect" id="node2" href="$d3/d8c/structTle5012b__reg_1_1fsync__t.html#a5cfd01b2a45c4f24045e884d94fe01a4" title=" " alt="" coords="132,5,271,47"/>
+<area shape="rect" id="node3" href="$d3/d8c/structTle5012b__reg_1_1fsync__t.html#ae13379f4ed65a1cf0934e7b9755aef65" title=" " alt="" coords="132,71,271,112"/>
+<area shape="rect" id="node4" href="$d7/d8c/Read__Sensor__Registers_8ino.html#ae9ee78fc52d9fdf0a7fc36f92054e9b8" title="Function prints a common header for each register entries." alt="" coords="157,137,245,163"/>
+<area shape="rect" id="node5" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a106e3d3595be8d6c375a2221563ab5be" title="Function prints the separated register entries with there type and remark." alt="" coords="161,187,241,214"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Tle5012b::triggerUpdate" name="Tle5012b::triggerUpdate">
+<area shape="rect" id="node1" title="Triggers an update in the register buffer." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$d6/d6e/classTle5012b__SPI.html#a85a9fa339f4e00a62341edc09230c159" title="Set the chipselect pin." alt="" coords="212,5,377,32"/>
+</map>

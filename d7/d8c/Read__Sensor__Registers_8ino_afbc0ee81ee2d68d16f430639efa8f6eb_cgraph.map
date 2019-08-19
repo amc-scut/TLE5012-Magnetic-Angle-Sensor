@@ -1,0 +1,10 @@
+<map id="reg_mod4" name="reg_mod4">
+<area shape="rect" id="node1" title=" " alt="" coords="5,209,84,235"/>
+<area shape="rect" id="node2" href="$d1/dbc/structTle5012b__reg_1_1mod4__t.html#ab9f7676d0c75b20baebf0f87e820b574" title=" " alt="" coords="133,5,271,47"/>
+<area shape="rect" id="node3" href="$d1/dbc/structTle5012b__reg_1_1mod4__t.html#a499ddc818efa935b45ee77f7a7d70de7" title=" " alt="" coords="133,71,271,112"/>
+<area shape="rect" id="node4" href="$d1/dbc/structTle5012b__reg_1_1mod4__t.html#aa94011acc391861e8b1d190eb6587257" title=" " alt="" coords="133,136,271,177"/>
+<area shape="rect" id="node5" href="$d8/db2/structTle5012b__reg_1_1mod2__t.html#ab5bf7e6037fe0c3a1976aa41e1453213" title=" " alt="" coords="132,201,272,243"/>
+<area shape="rect" id="node6" href="$d1/dbc/structTle5012b__reg_1_1mod4__t.html#a892ad9021cbaa520a52255391f5b6384" title=" " alt="" coords="133,267,271,308"/>
+<area shape="rect" id="node7" href="$d7/d8c/Read__Sensor__Registers_8ino.html#ae9ee78fc52d9fdf0a7fc36f92054e9b8" title="Function prints a common header for each register entries." alt="" coords="158,333,246,359"/>
+<area shape="rect" id="node8" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a106e3d3595be8d6c375a2221563ab5be" title="Function prints the separated register entries with there type and remark." alt="" coords="162,383,242,410"/>
+</map>

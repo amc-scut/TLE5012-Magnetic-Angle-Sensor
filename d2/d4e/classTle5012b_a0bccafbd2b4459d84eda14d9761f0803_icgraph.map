@@ -1,0 +1,5 @@
+<map id="Tle5012b::writeActivationStatus" name="Tle5012b::writeActivationStatus">
+<area shape="rect" id="node1" title="Standard function used for updating the CRC." alt="" coords="345,5,511,47"/>
+<area shape="rect" id="node2" href="$de/db0/classTle5012b__reg.html#af3cecee8759030ddadc8a63f1af2089a" title="Function reset the Sensor to fuse defaults." alt="" coords="108,13,297,39"/>
+<area shape="rect" id="node3" href="$de/db3/Read__Sensor__Type_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,13,60,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Tle5012b::readMoreRegisters" name="Tle5012b::readMoreRegisters">
+<area shape="rect" id="node1" title="Can be used to read 1 or more consecutive _registers, and the values used to read 1 or more than 1 co..." alt="" coords="631,56,821,83"/>
+<area shape="rect" id="node2" href="$d2/d4e/classTle5012b.html#a3fe01489173bad4921165c872b41808d" title="Same as above but also returns a pointer to the raw data." alt="" coords="397,5,567,32"/>
+<area shape="rect" id="node3" href="$de/dc1/Read__Multiple__Registers_8ino.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="459,56,505,83"/>
+<area shape="rect" id="node4" href="$de/db0/classTle5012b__reg.html#ae33552eb906f3e6c35ce433beac1409c" title="Function reads all readable sensor registers and separates the information fields." alt="" coords="381,107,583,133"/>
+<area shape="rect" id="node5" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,107,60,133"/>
+<area shape="rect" id="node6" href="$de/db0/classTle5012b__reg.html#acb55b4581ca31b8e3a561031eda496b4" title="Function identifies the current set interface type according some characteristic register settings." alt="" coords="108,132,333,159"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Tle5012b::end" name="Tle5012b::end">
+<area shape="rect" id="node1" title="Switches the sensor off and ends the comunication." alt="" coords="196,5,299,32"/>
+<area shape="rect" id="node2" href="$d2/d4e/classTle5012b.html#a9624bbe8790e7e5bbcfee9dbadcfc226" title="destructor stops the Sensor" alt="" coords="5,5,148,32"/>
+</map>

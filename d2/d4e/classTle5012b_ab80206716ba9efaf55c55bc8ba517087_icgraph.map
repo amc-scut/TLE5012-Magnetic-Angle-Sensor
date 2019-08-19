@@ -1,0 +1,5 @@
+<map id="Tle5012b::writeIntMode2" name="Tle5012b::writeIntMode2">
+<area shape="rect" id="node1" title="write register offset 0x08" alt="" coords="240,31,403,57"/>
+<area shape="rect" id="node2" href="$d0/d27/Read__Write__Registers_8ino.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="75,5,122,32"/>
+<area shape="rect" id="node3" href="$de/db0/classTle5012b__reg.html#a3ccd7a7f89632715ee58c4ca8815c7e1" title="Function set the sensors calibration mode." alt="" coords="5,56,192,83"/>
+</map>

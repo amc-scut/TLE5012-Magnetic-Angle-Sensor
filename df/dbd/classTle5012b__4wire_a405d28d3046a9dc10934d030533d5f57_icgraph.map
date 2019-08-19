@@ -1,0 +1,17 @@
+<map id="Tle5012b_4wire::readStatus" name="Tle5012b_4wire::readStatus">
+<area shape="rect" id="node1" title=" " alt="" coords="959,319,1141,346"/>
+<area shape="rect" id="node2" href="$df/dbd/classTle5012b__4wire.html#af4bdb489e3976390e6ae42aefa0ba212" title="This function is used in order to update the CRC in the register 0F(second byte)" alt="" coords="732,312,911,353"/>
+<area shape="rect" id="node3" href="$df/dbd/classTle5012b__4wire.html#afc32eed0afa59ef54cbcb36d92ea0093" title="This function is called each time any register in the range 08 &#45; 0F(first byte) is changed." alt="" coords="505,312,684,353"/>
+<area shape="rect" id="node4" href="$df/dbd/classTle5012b__4wire.html#aff54cd430b3d3518e35ffd47f770c02d" title="General write function for writing _registers from the Tle5012b_4wire." alt="" coords="256,319,457,346"/>
+<area shape="rect" id="node5" href="$df/dbd/classTle5012b__4wire.html#a0ffee41bda8e6a4238df07af3ec56ad2" title=" " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node6" href="$df/dbd/classTle5012b__4wire.html#a387ce08b681d273eb73318e179a3ed19" title=" " alt="" coords="27,71,187,112"/>
+<area shape="rect" id="node7" href="$df/dbd/classTle5012b__4wire.html#a340d9958d6f6237e463d2de8f1701b7b" title=" " alt="" coords="24,137,189,163"/>
+<area shape="rect" id="node8" href="$df/dbd/classTle5012b__4wire.html#ac54f51304d2f53fd661064e25b11d4f9" title="If the next eight function are called anytime and the values stored in the corresponding _registers i..." alt="" coords="27,188,187,229"/>
+<area shape="rect" id="node9" href="$df/dbd/classTle5012b__4wire.html#a4388dc61ad657fa14877d7eba9227ee0" title=" " alt="" coords="27,253,187,295"/>
+<area shape="rect" id="node10" href="$df/dbd/classTle5012b__4wire.html#ae1af7df23036772968b056b9d315e472" title=" " alt="" coords="13,319,200,346"/>
+<area shape="rect" id="node11" href="$df/dbd/classTle5012b__4wire.html#ac46d191bf527c55ce64558f4d8d4eac0" title=" " alt="" coords="12,370,201,397"/>
+<area shape="rect" id="node12" href="$df/dbd/classTle5012b__4wire.html#a44f7caed88596233641512d8d8c53377" title=" " alt="" coords="15,421,198,447"/>
+<area shape="rect" id="node13" href="$df/dbd/classTle5012b__4wire.html#abc9e9b56ba273da3906d38c06b1f7801" title=" " alt="" coords="19,471,194,498"/>
+<area shape="rect" id="node14" href="$df/dbd/classTle5012b__4wire.html#af76d8417b511bcda247998e706beef22" title=" " alt="" coords="27,523,187,564"/>
+<area shape="rect" id="node15" href="$df/dbd/classTle5012b__4wire.html#ac1c549d8767450f0b0409d8ceacb49cb" title=" " alt="" coords="17,588,196,629"/>
+</map>

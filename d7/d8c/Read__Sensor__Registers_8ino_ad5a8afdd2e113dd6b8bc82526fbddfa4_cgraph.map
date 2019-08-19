@@ -1,0 +1,13 @@
+<map id="reg_sil" name="reg_sil">
+<area shape="rect" id="node1" title=" " alt="" coords="5,307,65,334"/>
+<area shape="rect" id="node2" href="$d0/d65/structTle5012b__reg_1_1sil__t.html#a34d1092c32b8ab01ba2277afaa5b0989" title=" " alt="" coords="113,5,244,47"/>
+<area shape="rect" id="node3" href="$d0/d65/structTle5012b__reg_1_1sil__t.html#a4f900e6ef29d35ca190104cebe774683" title=" " alt="" coords="113,71,244,112"/>
+<area shape="rect" id="node4" href="$d0/d65/structTle5012b__reg_1_1sil__t.html#a9da59015301dbd185f3a95cb5ab9ac66" title=" " alt="" coords="113,136,244,177"/>
+<area shape="rect" id="node5" href="$d0/d65/structTle5012b__reg_1_1sil__t.html#af30cf3b74f62365efd453dca96cc78b2" title=" " alt="" coords="113,201,244,243"/>
+<area shape="rect" id="node6" href="$d0/d65/structTle5012b__reg_1_1sil__t.html#ac1e40ea1adea07eec921c36c97d47779" title=" " alt="" coords="113,267,244,308"/>
+<area shape="rect" id="node7" href="$d0/d65/structTle5012b__reg_1_1sil__t.html#a4a51407ab475af38829363c23b7973bc" title=" " alt="" coords="113,332,244,373"/>
+<area shape="rect" id="node8" href="$d0/d65/structTle5012b__reg_1_1sil__t.html#a9da3109d45cdb5c47c607ba5bf85dcf9" title=" " alt="" coords="113,397,244,439"/>
+<area shape="rect" id="node9" href="$d0/d65/structTle5012b__reg_1_1sil__t.html#a70ce2eb499f0051c1c698f8672909f92" title=" " alt="" coords="113,463,244,504"/>
+<area shape="rect" id="node10" href="$d7/d8c/Read__Sensor__Registers_8ino.html#ae9ee78fc52d9fdf0a7fc36f92054e9b8" title="Function prints a common header for each register entries." alt="" coords="135,529,223,555"/>
+<area shape="rect" id="node11" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a106e3d3595be8d6c375a2221563ab5be" title="Function prints the separated register entries with there type and remark." alt="" coords="139,579,219,606"/>
+</map>

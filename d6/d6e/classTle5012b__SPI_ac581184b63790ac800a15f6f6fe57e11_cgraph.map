@@ -1,0 +1,5 @@
+<map id="Tle5012b_SPI::sendReceiveSpi" name="Tle5012b_SPI::sendReceiveSpi">
+<area shape="rect" id="node1" title="Main SPI three wire communication functions for sending and receiving data." alt="" coords="5,31,208,57"/>
+<area shape="rect" id="node2" href="$d6/d6e/classTle5012b__SPI.html#a907f9f0891443630adb29295e61eab7d" title="set SPI to receive mode" alt="" coords="256,5,443,32"/>
+<area shape="rect" id="node3" href="$d6/d6e/classTle5012b__SPI.html#a94224b445b27314e05693a03221b3fa7" title="set SPI to send mode" alt="" coords="262,56,437,83"/>
+</map>

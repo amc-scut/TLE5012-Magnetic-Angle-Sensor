@@ -1,0 +1,7 @@
+<map id="reg_traw" name="reg_traw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,76,134"/>
+<area shape="rect" id="node2" href="$df/d4d/structTle5012b__reg_1_1traw__t.html#a69f80e234d256eecfbb27456a4929180" title=" " alt="" coords="124,5,264,47"/>
+<area shape="rect" id="node3" href="$df/d4d/structTle5012b__reg_1_1traw__t.html#adb924db6e55d790de8eca2ff15d9f9d8" title=" " alt="" coords="129,71,259,112"/>
+<area shape="rect" id="node4" href="$d7/d8c/Read__Sensor__Registers_8ino.html#ae9ee78fc52d9fdf0a7fc36f92054e9b8" title="Function prints a common header for each register entries." alt="" coords="150,137,238,163"/>
+<area shape="rect" id="node5" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a106e3d3595be8d6c375a2221563ab5be" title="Function prints the separated register entries with there type and remark." alt="" coords="154,187,234,214"/>
+</map>

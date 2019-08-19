@@ -1,0 +1,12 @@
+<map id="Tle5012b_4wire::getUpdNumRevolutions" name="Tle5012b_4wire::getUpdNumRevolutions">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,192,115"/>
+<area shape="rect" id="node2" href="$df/dbd/classTle5012b__4wire.html#a719e58c71b84c2c2af9aba68c8fd5b79" title=" " alt="" coords="240,74,440,115"/>
+<area shape="rect" id="node3" href="$df/dbd/classTle5012b__4wire.html#a30895c451cdff4550dcef4b2c43f7a46" title="General read function for reading _registers from the Tle5012b_4wire." alt="" coords="488,74,663,115"/>
+<area shape="rect" id="node4" href="$df/dbd/classTle5012b__4wire.html#ad3998d6935fcc9d31cfb5ed33d21f3e7" title="After every transaction with the Tle5012b_4wire, a safety word is returned to check the validity of t..." alt="" coords="711,81,901,108"/>
+<area shape="rect" id="node5" href="$df/dbd/classTle5012b__4wire.html#ae097da02afc8bc025b018f75bce1eeb6" title="Function for calculation of the CRC." alt="" coords="971,5,1142,32"/>
+<area shape="rect" id="node7" href="$df/dbd/classTle5012b__4wire.html#a014338d6ae85d02404a9b3d4e4cf4eb6" title="Gets the first byte of a 2 byte word." alt="" coords="958,56,1155,83"/>
+<area shape="rect" id="node8" href="$df/dbd/classTle5012b__4wire.html#a0c85f9a52754309e59aebb3f85b1818f" title="Gets the second byte of the 2 byte word." alt="" coords="949,107,1164,133"/>
+<area shape="rect" id="node9" href="$df/dbd/classTle5012b__4wire.html#ac5990f50c7b311894822a14cb46b8caa" title=" " alt="" coords="964,157,1149,184"/>
+<area shape="rect" id="node6" href="$df/dbd/classTle5012b__4wire.html#addbed3a27d83aed16f6f003b35925678" title="Function for calculation the CRC." alt="" coords="1235,5,1385,32"/>
+<area shape="rect" id="node10" href="$df/dbd/classTle5012b__4wire.html#a27ddb242bf636786cb0a9c6613246e49" title="Triggers an update." alt="" coords="1212,157,1408,184"/>
+</map>

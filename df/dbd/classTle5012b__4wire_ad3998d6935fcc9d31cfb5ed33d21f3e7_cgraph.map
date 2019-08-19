@@ -1,0 +1,9 @@
+<map id="Tle5012b_4wire::checkSafety" name="Tle5012b_4wire::checkSafety">
+<area shape="rect" id="node1" title="After every transaction with the Tle5012b_4wire, a safety word is returned to check the validity of t..." alt="" coords="5,81,196,108"/>
+<area shape="rect" id="node2" href="$df/dbd/classTle5012b__4wire.html#ae097da02afc8bc025b018f75bce1eeb6" title="Function for calculation of the CRC." alt="" coords="266,5,437,32"/>
+<area shape="rect" id="node4" href="$df/dbd/classTle5012b__4wire.html#a014338d6ae85d02404a9b3d4e4cf4eb6" title="Gets the first byte of a 2 byte word." alt="" coords="253,56,450,83"/>
+<area shape="rect" id="node5" href="$df/dbd/classTle5012b__4wire.html#a0c85f9a52754309e59aebb3f85b1818f" title="Gets the second byte of the 2 byte word." alt="" coords="244,107,459,133"/>
+<area shape="rect" id="node6" href="$df/dbd/classTle5012b__4wire.html#ac5990f50c7b311894822a14cb46b8caa" title=" " alt="" coords="259,157,444,184"/>
+<area shape="rect" id="node3" href="$df/dbd/classTle5012b__4wire.html#addbed3a27d83aed16f6f003b35925678" title="Function for calculation the CRC." alt="" coords="529,5,680,32"/>
+<area shape="rect" id="node7" href="$df/dbd/classTle5012b__4wire.html#a27ddb242bf636786cb0a9c6613246e49" title="Triggers an update." alt="" coords="507,157,703,184"/>
+</map>

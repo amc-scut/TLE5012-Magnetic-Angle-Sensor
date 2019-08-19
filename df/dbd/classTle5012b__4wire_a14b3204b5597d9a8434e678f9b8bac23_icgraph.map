@@ -1,0 +1,4 @@
+<map id="Tle5012b_4wire::readAngleValue" name="Tle5012b_4wire::readAngleValue">
+<area shape="rect" id="node1" title="The angle value is a 15 bit signed integer." alt="" coords="224,5,401,47"/>
+<area shape="rect" id="node2" href="$df/dbd/classTle5012b__4wire.html#ab5410e6bc67ccd331e59131d1eecb926" title="returns the angle value" alt="" coords="5,5,176,47"/>
+</map>

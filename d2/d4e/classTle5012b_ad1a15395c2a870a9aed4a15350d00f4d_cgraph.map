@@ -1,0 +1,15 @@
+<map id="Tle5012b::readRawY" name="Tle5012b::readRawY">
+<area shape="rect" id="node1" title="The rawY value is signed 16 bit value." alt="" coords="5,100,147,126"/>
+<area shape="rect" id="node2" href="$d2/d4e/classTle5012b.html#a9140a4c8dcf66a3417edc8a2e0a6520a" title="General read function for reading _registers from the Tle5012b." alt="" coords="195,100,373,126"/>
+<area shape="rect" id="node3" href="$d2/d4e/classTle5012b.html#a693aa704e4e6631219edd80fbee80347" title="checks the safety by looking at the safety word and calculating the CRC such that the data received i..." alt="" coords="421,100,576,126"/>
+<area shape="rect" id="node9" href="$d6/d6e/classTle5012b__SPI.html#ac581184b63790ac800a15f6f6fe57e11" title="Main SPI three wire communication functions for sending and receiving data." alt="" coords="820,49,1023,76"/>
+<area shape="rect" id="node13" href="$d6/d6e/classTle5012b__SPI.html#a85a9fa339f4e00a62341edc09230c159" title="Set the chipselect pin." alt="" coords="1081,162,1247,189"/>
+<area shape="rect" id="node4" href="$dd/dea/Tle5012b_8cpp.html#af5f2e5cfee7e8bbbd20d6b568c5927b0" title="Function for calculation of the CRC." alt="" coords="665,176,731,202"/>
+<area shape="rect" id="node6" href="$dd/dea/Tle5012b_8cpp.html#ad49b292d48f6fdff2fcad35f0a217eef" title="Gets the first byte of a 2 byte word." alt="" coords="651,24,745,50"/>
+<area shape="rect" id="node7" href="$dd/dea/Tle5012b_8cpp.html#a73d3da25810058a7adb4f830bafb961e" title="Gets the second byte of the 2 byte word." alt="" coords="643,74,753,101"/>
+<area shape="rect" id="node8" href="$d2/d4e/classTle5012b.html#a2430563f51c44e3dcd7438330fa59fd5" title="When an error occurs in the safety word, the error bit remains 0(error), until the status register is..." alt="" coords="624,125,772,152"/>
+<area shape="rect" id="node5" href="$dd/dea/Tle5012b_8cpp.html#a1d0d34e26b6c32396a3b1dcf5617c7f7" title="Function for calculation the CRC." alt="" coords="898,176,945,202"/>
+<area shape="rect" id="node12" href="$d2/d4e/classTle5012b.html#a8b20197095fe51d38749573e930701c0" title="Triggers an update in the register buffer." alt="" coords="842,125,1001,152"/>
+<area shape="rect" id="node10" href="$d6/d6e/classTle5012b__SPI.html#a94224b445b27314e05693a03221b3fa7" title="set SPI to send mode" alt="" coords="1077,74,1251,101"/>
+<area shape="rect" id="node11" href="$d6/d6e/classTle5012b__SPI.html#a907f9f0891443630adb29295e61eab7d" title="set SPI to receive mode" alt="" coords="1071,24,1257,50"/>
+</map>

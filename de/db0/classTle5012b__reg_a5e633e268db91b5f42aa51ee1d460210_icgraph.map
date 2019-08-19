@@ -1,0 +1,5 @@
+<map id="Tle5012b_reg::identify" name="Tle5012b_reg::identify">
+<area shape="rect" id="node1" title="Identify the sensor interface and PCB board." alt="" coords="381,5,529,32"/>
+<area shape="rect" id="node2" href="$de/db0/classTle5012b__reg.html#acb55b4581ca31b8e3a561031eda496b4" title="Function identifies the current set interface type according some characteristic register settings." alt="" coords="108,5,333,32"/>
+<area shape="rect" id="node3" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,5,60,32"/>
+</map>

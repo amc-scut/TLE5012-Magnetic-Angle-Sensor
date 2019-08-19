@@ -1,0 +1,7 @@
+<map id="reg_iifcnt" name="reg_iifcnt">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,80,134"/>
+<area shape="rect" id="node2" href="$d7/dec/structTle5012b__reg_1_1iifcnt__t.html#a0ab6d0079dca414b89666e263d2a9c49" title=" " alt="" coords="131,5,265,47"/>
+<area shape="rect" id="node3" href="$d7/dec/structTle5012b__reg_1_1iifcnt__t.html#a54d97f278c750619f06f0dc967879f49" title=" " alt="" coords="128,71,268,112"/>
+<area shape="rect" id="node4" href="$d7/d8c/Read__Sensor__Registers_8ino.html#ae9ee78fc52d9fdf0a7fc36f92054e9b8" title="Function prints a common header for each register entries." alt="" coords="154,137,242,163"/>
+<area shape="rect" id="node5" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a106e3d3595be8d6c375a2221563ab5be" title="Function prints the separated register entries with there type and remark." alt="" coords="158,187,238,214"/>
+</map>

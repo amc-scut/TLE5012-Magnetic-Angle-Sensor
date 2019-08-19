@@ -1,0 +1,7 @@
+<map id="reg_dmag" name="reg_dmag">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,84,134"/>
+<area shape="rect" id="node2" href="$dd/d91/structTle5012b__reg_1_1dmag__t.html#a321d33bfd053ffc8c41ea0351e9435a8" title=" " alt="" coords="133,5,271,47"/>
+<area shape="rect" id="node3" href="$dd/d91/structTle5012b__reg_1_1dmag__t.html#a6195dd24a8a65974cd7e7f0c56444746" title=" " alt="" coords="132,71,272,112"/>
+<area shape="rect" id="node4" href="$d7/d8c/Read__Sensor__Registers_8ino.html#ae9ee78fc52d9fdf0a7fc36f92054e9b8" title="Function prints a common header for each register entries." alt="" coords="158,137,246,163"/>
+<area shape="rect" id="node5" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a106e3d3595be8d6c375a2221563ab5be" title="Function prints the separated register entries with there type and remark." alt="" coords="162,187,242,214"/>
+</map>

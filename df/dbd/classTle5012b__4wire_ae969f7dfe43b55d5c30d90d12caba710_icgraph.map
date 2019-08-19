@@ -1,0 +1,6 @@
+<map id="Tle5012b_4wire::readIntMode2" name="Tle5012b_4wire::readIntMode2">
+<area shape="rect" id="node1" title="The next eight functions are used primarily for storing the parameters and control of how the sensor ..." alt="" coords="465,58,663,85"/>
+<area shape="rect" id="node2" href="$df/dbd/classTle5012b__4wire.html#a17cb946e08117333a23ddd40a2a646bc" title=" " alt="" coords="247,51,417,92"/>
+<area shape="rect" id="node3" href="$df/dbd/classTle5012b__4wire.html#a36965ca79c99de9c41fada833907e4f2" title="returns the angle speed" alt="" coords="17,5,187,47"/>
+<area shape="rect" id="node4" href="$df/dbd/classTle5012b__4wire.html#aae0f750f1301c241cc19c2e0cecab06a" title=" " alt="" coords="5,84,199,125"/>
+</map>

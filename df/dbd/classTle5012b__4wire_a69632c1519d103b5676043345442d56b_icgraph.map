@@ -1,0 +1,4 @@
+<map id="Tle5012b_4wire::readAngleRevolution" name="Tle5012b_4wire::readAngleRevolution">
+<area shape="rect" id="node1" title="The angle value is a 9 bit signed integer." alt="" coords="284,5,461,47"/>
+<area shape="rect" id="node2" href="$df/dbd/classTle5012b__4wire.html#ac960ecd9b9d11ab744c8feb455752453" title="returns the number of revolutions" alt="" coords="5,13,236,39"/>
+</map>

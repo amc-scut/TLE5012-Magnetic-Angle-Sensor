@@ -1,0 +1,7 @@
+<map id="reg_offy" name="reg_offy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,72,134"/>
+<area shape="rect" id="node2" href="$dc/d2b/structTle5012b__reg_1_1offy__t.html#a9db6c0295e469e4028c8a589798ed318" title=" " alt="" coords="120,5,260,47"/>
+<area shape="rect" id="node3" href="$dc/d2b/structTle5012b__reg_1_1offy__t.html#adb2677491da3ef24609cf7db93d5b469" title=" " alt="" coords="122,71,258,112"/>
+<area shape="rect" id="node4" href="$d7/d8c/Read__Sensor__Registers_8ino.html#ae9ee78fc52d9fdf0a7fc36f92054e9b8" title="Function prints a common header for each register entries." alt="" coords="146,137,234,163"/>
+<area shape="rect" id="node5" href="$d7/d8c/Read__Sensor__Registers_8ino.html#a106e3d3595be8d6c375a2221563ab5be" title="Function prints the separated register entries with there type and remark." alt="" coords="150,187,230,214"/>
+</map>

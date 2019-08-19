@@ -1,0 +1,4 @@
+<map id="Tle5012b::enableSensor" name="Tle5012b::enableSensor">
+<area shape="rect" id="node1" title="Function enables Sensor by switch on EN pin which is only possible on Sensor2go shields,..." alt="" coords="167,5,328,32"/>
+<area shape="rect" id="node2" href="$d2/d4e/classTle5012b.html#ace80914649733a3045110acaa5b2566e" title=" " alt="" coords="5,5,119,32"/>
+</map>

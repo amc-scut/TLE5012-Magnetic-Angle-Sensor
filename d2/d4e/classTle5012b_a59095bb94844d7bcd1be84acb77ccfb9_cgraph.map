@@ -1,0 +1,20 @@
+<map id="Tle5012b::writeSynch" name="Tle5012b::writeSynch">
+<area shape="rect" id="node1" title="write register offset 0x0C" alt="" coords="5,448,152,475"/>
+<area shape="rect" id="node2" href="$d2/d4e/classTle5012b.html#a0601c6d4d0449d1dec934420b74c5a23" title="General write function for writing registers to the Tle5012b." alt="" coords="200,448,364,475"/>
+<area shape="rect" id="node3" href="$d2/d4e/classTle5012b.html#a693aa704e4e6631219edd80fbee80347" title="checks the safety by looking at the safety word and calculating the CRC such that the data received i..." alt="" coords="1281,448,1436,475"/>
+<area shape="rect" id="node9" href="$d6/d6e/classTle5012b__SPI.html#ac581184b63790ac800a15f6f6fe57e11" title="Main SPI three wire communication functions for sending and receiving data." alt="" coords="1680,397,1883,424"/>
+<area shape="rect" id="node13" href="$d6/d6e/classTle5012b__SPI.html#a85a9fa339f4e00a62341edc09230c159" title="Set the chipselect pin." alt="" coords="1941,93,2107,120"/>
+<area shape="rect" id="node14" href="$d2/d4e/classTle5012b.html#ae66fc608d2f5ac4ab9c666c5c96590db" title="This function is called each time any register in the range 08 &#45; 0F(first byte) is changed." alt="" coords="412,347,595,373"/>
+<area shape="rect" id="node4" href="$dd/dea/Tle5012b_8cpp.html#af5f2e5cfee7e8bbbd20d6b568c5927b0" title="Function for calculation of the CRC." alt="" coords="1525,144,1591,171"/>
+<area shape="rect" id="node6" href="$dd/dea/Tle5012b_8cpp.html#ad49b292d48f6fdff2fcad35f0a217eef" title="Gets the first byte of a 2 byte word." alt="" coords="1511,448,1605,475"/>
+<area shape="rect" id="node7" href="$dd/dea/Tle5012b_8cpp.html#a73d3da25810058a7adb4f830bafb961e" title="Gets the second byte of the 2 byte word." alt="" coords="1503,499,1613,525"/>
+<area shape="rect" id="node8" href="$d2/d4e/classTle5012b.html#a2430563f51c44e3dcd7438330fa59fd5" title="When an error occurs in the safety word, the error bit remains 0(error), until the status register is..." alt="" coords="1484,296,1632,323"/>
+<area shape="rect" id="node5" href="$dd/dea/Tle5012b_8cpp.html#a1d0d34e26b6c32396a3b1dcf5617c7f7" title="Function for calculation the CRC." alt="" coords="1758,144,1805,171"/>
+<area shape="rect" id="node12" href="$d2/d4e/classTle5012b.html#a8b20197095fe51d38749573e930701c0" title="Triggers an update in the register buffer." alt="" coords="1702,245,1861,272"/>
+<area shape="rect" id="node10" href="$d6/d6e/classTle5012b__SPI.html#a94224b445b27314e05693a03221b3fa7" title="set SPI to send mode" alt="" coords="1937,372,2111,399"/>
+<area shape="rect" id="node11" href="$d6/d6e/classTle5012b__SPI.html#a907f9f0891443630adb29295e61eab7d" title="set SPI to receive mode" alt="" coords="1931,423,2117,449"/>
+<area shape="rect" id="node15" href="$d2/d4e/classTle5012b.html#a32fa9cede7dabe812630f28fd67f45a9" title="Reads the block of _registers from addresses 08 &#45; 0F in order to figure out the CRC." alt="" coords="1061,271,1227,297"/>
+<area shape="rect" id="node16" href="$d2/d4e/classTle5012b.html#ab2145a6cfee2789b6178a4397e708abf" title="This function is used in order to update the CRC in the register 0F(second byte)" alt="" coords="643,339,813,381"/>
+<area shape="rect" id="node17" href="$d2/d4e/classTle5012b.html#af3d41ee5db94f9867807e03e11c32add" title="This functions reads the main status word for the sensor, mainly for checking with the additional saf..." alt="" coords="861,321,1007,348"/>
+<area shape="rect" id="node18" href="$d2/d4e/classTle5012b.html#a9140a4c8dcf66a3417edc8a2e0a6520a" title="General read function for reading _registers from the Tle5012b." alt="" coords="1055,321,1233,348"/>
+</map>
